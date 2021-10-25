@@ -11,5 +11,6 @@ namespace ProductsApi.Repository
 
         List<Supplier> GGtData();
         Supplier Update( Supplier  name);
+        //get him
     }
 }
